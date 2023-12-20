@@ -65,3 +65,10 @@ TW_HAS_DOWNLOAD_MODE := true
 TW_INCLUDE_CRYPTO := false
 TW_INCLUDE_NTFS_3G := true
 TW_NO_EXFAT_FUSE := true
+
+# SHRP Flags
+SHRP_PATH := device/samsung/gtaxlwifi
+SHRP_MAINTAINER := SeifHecker2099
+SHRP_DEVICE_CODE := gtaxlwifi
+SHRP_DARK := true
+SHRP_EDL_MODE := 0
